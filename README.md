@@ -33,7 +33,7 @@ self-contained. Each one documents what was verified and what was not.
 ## Publication
 
 **[SRBL Team Description Paper](https://ssl.robocup.org/wp-content/uploads/2025/04/2025_TDP_SRBL.pdf)**
-— *Small Size League, RoboCup 2025.* First author.
+— *Small Size League, RoboCup 2025.*
 
 ## Experience
 
