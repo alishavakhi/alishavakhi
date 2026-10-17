@@ -85,10 +85,20 @@ electrical and software design for the competition.
 
 ### Awards
 
-- **1st** — International Humanoid Robot League, IranOpen 2023
-- **2nd** — International Humanoid Robot League, RoboCup 2021 (Bordeaux)
-- **1st** — International Humanoid Robot League, RoboCup 2019 (Sydney)
-- **1st** — Junior Soccer Robot League, RoboCup Asia-Pacific 2018 · IranOpen 2016
+**Humanoid Robot League — MRL Humanoid team**
+
+- **1st** — RoboCup IranOpen 2023
+- **2nd** — RoboCup 2021, Bordeaux
+- **1st** — RoboCup 2019, Sydney
+
+**Junior Soccer Robot League — NJRT team**
+
+- **1st** — RoboCup Asia-Pacific 2018
+- **1st** — RoboCup IranOpen 2016
+- **2nd** — RoboCup IranOpen 2015
+- **3rd** — RoboCup IranOpen 2018
+- **5th** — RoboCup IranOpen 2017
+- **Best Design award** — RoboCup IranOpen 2016
 
 ---
 
