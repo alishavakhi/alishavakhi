@@ -84,17 +84,15 @@ electrical and software design for the competition.
   signs and a sensor gateway for a smart greenhouse
 
 ### Awards
-
-- **2015** — Junior Soccer Robot League, RoboCup IranOpen — **2nd place**
-- **2016** — Junior Soccer Robot League, RoboCup IranOpen — **1st place**
-- **2016** — Junior Soccer Robot League, RoboCup IranOpen — **Best Design award**
-- **2017** — Junior Soccer Robot League, RoboCup IranOpen — **5th place**
-- **2018** — Junior Soccer Robot League, RoboCup IranOpen — **3rd place**
-- **2018** — Junior Soccer Robot League, RoboCup Asia-Pacific — **1st place**
-- **2019** — International Humanoid Robot League, RoboCup Sydney — **1st place**
-- **2021** — International Humanoid Robot League, RoboCup Bordeaux — **2nd place**
 - **2023** — International Humanoid Robot League, RoboCup IranOpen — **1st place**
-
+- **2021** — International Humanoid Robot League, RoboCup Bordeaux — **2nd place**
+- **2019** — International Humanoid Robot League, RoboCup Sydney — **1st place**
+- **2018** — Junior Soccer Robot League, RoboCup Asia-Pacific — **1st place**
+- **2018** — Junior Soccer Robot League, RoboCup IranOpen — **3rd place**
+- **2017** — Junior Soccer Robot League, RoboCup IranOpen — **5th place**
+- **2016** — Junior Soccer Robot League, RoboCup IranOpen — **Best Design award**
+- **2016** — Junior Soccer Robot League, RoboCup IranOpen — **1st place**
+- **2015** — Junior Soccer Robot League, RoboCup IranOpen — **2nd place**
 ---
 
 ## Contact
