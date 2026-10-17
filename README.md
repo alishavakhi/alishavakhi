@@ -73,15 +73,35 @@ electrical and software design for the competition.
 
 ## Robotics experience
 
-- **Team leader, Small Size League** — RoboCup 2025. Also RoboCup referee and
-  Junior Soccer League technical-committee member (IranOpen)
-- **Researcher / R&D electronics engineer — MRL Humanoid, QIAU** (2019–2024):
-  designed the humanoid's main control board (dedicated motor communication path,
-  inertial sensor fusion, power distribution and stabilisation) and the
-  USB2Dynamixel interface board
-- **Co-founder and mentor — NJRT** junior robotics team
-- **R&D, Noandishan Hooshmand Sepahan** (2020): hardware for city variable-message
-  signs and a sensor gateway for a smart greenhouse
+- **Team leader — Small Size League, RoboCup 2025**, I. Azad University, Tehran
+- **Researcher — MRL (Mechatronics Research Laboratory), QIAU** · 2018–2024, incl.
+  R&D electronics engineer on the **MRL Humanoid** team (2019–2024): designed the
+  humanoid's main control board (dedicated motor communication path, inertial
+  sensor fusion, power distribution and stabilisation) and the USB2Dynamixel
+  interface board
+- **Electrical engineer — MRL Small Size League** · 2018–2019: designed the
+  kicking voltage booster, cutting capacitor charge time from 8–9 s to 4 s with
+  feedback-based charge control and maximum-voltage monitoring
+- **Technical committee and referee — Junior Soccer League, RoboCup Iran Open**
+  · 2021–2024, and **RoboCup Federation** · 2022–2024: qualified teams through
+  interviews, designed technical challenges to assess teams' knowledge, organised
+  and refereed the competition
+- **Co-founder and mentor — NJRT (Nesfe Jahan Robotic Team)** · 2017–2019:
+  mentored the junior laboratory team
+- **Member — TRT robotic laboratory** · 2012–2017
+- **R&D — Noandishan Hooshmand Sepahan** · 2020: hardware for the city's
+  variable-message signs (≈40 units deployed in Esfahan and Shiraz) and a
+  sensor-monitoring gateway for a smart greenhouse
+
+## Teaching
+
+- **Teaching assistant — Qazvin I. Azad University** · 2022 — *Digital Systems*
+  (Prof. Dr. M. Norouzi) and *Designing Microprocessor Systems*
+  (Prof. Dr. M. Chegini)
+
+## Languages
+
+Persian — native · English — B2 · Italian — elementary
 
 ### Awards
 - **2023** — International Humanoid Robot League, RoboCup IranOpen — **1st place**
