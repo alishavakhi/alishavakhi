@@ -12,7 +12,8 @@ underneath them.
 
 - **[turtlebot3-navigation-perception](https://github.com/alishavakhi/turtlebot3-navigation-perception)** — ROS 2
   navigation and perception on a simulated TurtleBot 3: AprilTag goal extraction,
-  Nav2, a LiDAR corridor-following controller and LiDAR table detection.
+  Nav2, a LiDAR corridor-following controller, LiDAR table detection, and a baseline
+  versus Kalman-filtered state estimator.
 - **[ur5-vision-guided-manipulation](https://github.com/alishavakhi/ur5-vision-guided-manipulation)** —
   vision-guided cube swapping on a simulated UR5: 6-DoF pose recovery from a single
   RGB camera, colour classification, pose/colour fusion with staleness handling, and
