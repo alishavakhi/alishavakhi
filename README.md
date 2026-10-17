@@ -1,12 +1,13 @@
 # Ali Shavakhi
 
-**M.Sc. Control Systems Engineering, University of Padova.** I work on robotics
-perception and control — ROS 2 systems that see, decide and move: AprilTag pose
-estimation, colour segmentation, LiDAR navigation, MoveIt 2 motion planning, and
-the control theory underneath them.
+**M.Sc. Control Systems Engineering, University of Padova.** I am writing my
+master's thesis at **IT+Robotics** on 6D object pose estimation for industrial
+bin-picking. I work on robotics perception and control — ROS 2 systems that see,
+decide and move: pose estimation, colour segmentation, LiDAR navigation, MoveIt 2
+motion planning, and the control theory underneath them.
 
-Before Padova: control boards, sensor fusion and power electronics for
-award-winning humanoid and small-size RoboCup teams.
+Before Padova: five years designing the electronics and control boards behind
+award-winning humanoid and small-size RoboCup robots.
 
 ---
 
@@ -57,13 +58,15 @@ electrical and software design for the competition.
 
 ## Skills
 
-- **Robotics** — ROS 2, MoveIt 2, Nav2, Gazebo, OMPL, tf2
-- **Perception & learning** — OpenCV, YOLO, Roboflow, AprilTag, Kalman filtering
+- **Robotics** — ROS 2, MoveIt 2, Nav2, Gazebo, OMPL, tf2, BlenderProc
+- **Perception & learning** — 6D object pose estimation, OpenCV, YOLO,
+  deep-learning vision models, AprilTag, Kalman filtering
 - **Control** — state-space and digital control, LQR, pole placement, system
   identification, MCMC parameter estimation
 - **Languages & tools** — Python, C/C++, MATLAB, Lua, V+ (Adept), Git, LaTeX
-- **Hardware & embedded** — Altium, STM32CubeIDE, PLC ladder logic, SolidWorks;
-  motor-control and interface board design
+- **Hardware & embedded** — Altium, Keil, STM32CubeIDE, Dynamixel servo
+  interfaces, PLC ladder logic, SolidWorks; controller-board and power-electronics
+  design
 
 ## Education
 
@@ -71,25 +74,27 @@ electrical and software design for the competition.
 - **B.Sc. Electrical Engineering** — Qazvin I. Azad University, Iran · 2019–2023
   Thesis: optimisation and programming of a humanoid robot's main control circuit
 
-## Robotics experience
+## Experience
 
-- **Team leader — Small Size League, RoboCup 2025**, I. Azad University, Tehran
-- **Researcher — MRL (Mechatronics Research Laboratory), QIAU** · 2018–2024, incl.
-  R&D electronics engineer on the **MRL Humanoid** team (2019–2024): designed the
+- **Robotics & Computer Vision Researcher — IT+Robotics s.r.l.** · Padova ·
+  2026–present — master's thesis and internship: **6D object pose estimation for
+  industrial bin-picking** with ROS 2, BlenderProc and deep-learning vision models
+- **Team leader — RoboCup Small Size League (SRBL)** · 2024–2025 — led the team
+  through RoboCup 2025: system integration, technical documentation and competition
+  preparation. First author of the team's 2025 description paper
+  (see [Publication](#publication))
+- **R&D electronics engineer — MRL Humanoid, QIAU** · 2019–2024 — designed the
   humanoid's main control board (dedicated motor communication path, inertial
   sensor fusion, power distribution and stabilisation) and the USB2Dynamixel
-  interface board
-- **Electrical engineer — MRL Small Size League** · 2018–2019: designed the
-  kicking voltage booster, cutting capacitor charge time from 8–9 s to 4 s with
-  feedback-based charge control and maximum-voltage monitoring
-- **Technical committee and referee — Junior Soccer League, RoboCup Iran Open**
-  · 2021–2024, and **RoboCup Federation** · 2022–2024: qualified teams through
-  interviews, designed technical challenges to assess teams' knowledge, organised
-  and refereed the competition
-- **Co-founder and mentor — NJRT (Nesfe Jahan Robotic Team)** · 2017–2019:
-  mentored the junior laboratory team
-- **Member — TRT robotic laboratory** · 2012–2017
-- **R&D — Noandishan Hooshmand Sepahan** · 2020: hardware for the city's
+  interface board; earlier, as electrical engineer on the MRL small-size team
+  (2018–2019), designed the kicking voltage booster that cut capacitor charge time
+  from 8–9 s to 4 s
+- **Junior Soccer League technical committee and referee — RoboCup Federation** ·
+  2022–2024 — qualified teams through interviews, designed the technical challenge,
+  organised the event and refereed the competition
+- **Co-founder — RoboIUT** · 2021–2024 — robotics initiative for student projects,
+  technical learning and hands-on embedded development
+- **R&D — Noandishan Hooshmand Sepahan** · 2020 — hardware for the city's
   variable-message signs (≈40 units deployed in Esfahan and Shiraz) and a
   sensor-monitoring gateway for a smart greenhouse
 
